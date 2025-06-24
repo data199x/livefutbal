@@ -38,8 +38,10 @@
       "match_update_url": "data/asian2023tv/match"
     },
     "com.world.cup.tv": {
-      "ads_list": [""],
-      "am_in": "",
+      "ads_list": ["am"],
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
       "app_id": "",
 
       "interval": 45000,
